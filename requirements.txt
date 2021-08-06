@@ -1,2 +1,6 @@
 black==21.6b0
 flake8==3.9.2 
+
+setuptools~=57.0.0
+pygame~=2.0.1
+click~=8.0.1
